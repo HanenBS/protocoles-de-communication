@@ -1,0 +1,2 @@
+module Multicast_Chat {
+}
